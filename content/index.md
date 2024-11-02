@@ -2,5 +2,10 @@
 title: Jerry's Holocron
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 🎯 Personal Dashboard
+
+## 🌅 Quick Links
+
+## 🎯 Focus Areas
+
+## 💪 Health & Wellness
