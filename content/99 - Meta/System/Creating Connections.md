@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-
+Does this note exist in Obsidian?
 ## Related
 - [[System Principles]]
 - [[Folder Structure]]

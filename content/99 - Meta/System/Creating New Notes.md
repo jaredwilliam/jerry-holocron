@@ -8,7 +8,10 @@ draft: false
 ---
 
 # Creating New Notes
-
+## Decision Process
+1. Identify the main note type (task, study, reflection, etc.)
+2. Choose the appropriate main folder:
+	1. Personal 
 
 ## Related
 - [[System Principles]]
