@@ -45,3 +45,6 @@ Nothing changes that. Nothing exempts us form that. Nothing prevents us from doi
 
 The consequences and the costs and the stakes can change, and the election results may well have done that. But the obligation remains. The duty remains. 
 
+## References
+- [[The Stoic Response to Political Turmoil]]
+- [[Meditations]]
