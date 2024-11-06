@@ -68,8 +68,12 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]))
             if (aliases) data.aliases = aliases
+
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
+
+            const references = coerceToArray(coalesceAliases(data, ["references", "reference"]))
+            if (references) data.references = references
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
@@ -93,6 +97,7 @@ declare module "vfile" {
         lang: string
         enableToc: string
         cssclasses: string[]
+        references: string[]
       }>
   }
 }

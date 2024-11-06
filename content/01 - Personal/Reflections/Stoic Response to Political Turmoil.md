@@ -6,7 +6,9 @@ tags:
   - theme/philosophy
   - theme/stoicism
 draft: false
-reference: "[[The Stoic Response to Political Turmoil]]"
+references:
+  - "[[The Stoic Response to Political Turmoil]]"
+  - "[[Meditations]]"
 ---
 
 It is inevitable that an election doesn't go *someone's* way. If it didn't go your way, you may find yourself anxious and worried. Even if it did go your way and you feel some sort of relief, the truth is, none of us know how this will go. 
